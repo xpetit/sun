@@ -1,0 +1,10 @@
+github.com/nathan-osman/go-sunrise v1.0.0 h1:mvjoVmXjmiHDSwKRA5t4T/1rNuHQDhodfQoxrUU39ck=
+github.com/nathan-osman/go-sunrise v1.0.0/go.mod h1:RcWqhT+5ShCZDev79GuWLayetpJp78RSjSWxiDowmlM=
+github.com/xpetit/bar v0.0.0-20210728152458-25a7402c5b60 h1:dkzavqZ3noo3T90IHFtec1tyDWMZxLh0DXNttt3ANj0=
+github.com/xpetit/bar v0.0.0-20210728152458-25a7402c5b60/go.mod h1:vH3JFJl+JgbPH0iOEqtQGiMWosF6hflE3vMdmSDPAWU=
+github.com/xpetit/bar v0.0.0-20210728153825-3a4aa58e294a h1:bcLUB+D83PaRQwIFmBj126vnGjRVXKgvrceLxjs1PVE=
+github.com/xpetit/bar v0.0.0-20210728153825-3a4aa58e294a/go.mod h1:vH3JFJl+JgbPH0iOEqtQGiMWosF6hflE3vMdmSDPAWU=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 h1:SrN+KX8Art/Sf4HNj6Zcz06G7VEz+7w9tdXTPOZ7+l4=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b h1:9zKuko04nR4gjZ4+DNjHqRlAJqbJETHwiNKDqTfOjfE=
+golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b/go.mod h1:jbD1KX2456YbFQfuXm/mYQcufACuNUgVhRMnK/tPxf8=
